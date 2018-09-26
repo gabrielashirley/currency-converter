@@ -31,3 +31,5 @@ To enable this app, via terminal:
 2. Inside the file, type $ npm install
 3. After installed, type $ npm start
 4. It should direct you to see the app in the browser
+
+To see the code, I uploaded the file to codeanywhere Cloud IDE via this link: https://codeanywhere.com/s/l/ol0YA7XvH7fki4XJkcWe5723gNsB0p9YbsyQ6wP3IrfWOnCTB1GarrapwJkpeSjm
