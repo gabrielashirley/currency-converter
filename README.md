@@ -1,4 +1,4 @@
-# Shopee ID - Front End Web Test
+# Currency Converter
 
 This is a foreign exchange currency app in which calculates a converted foreign exchange currency using the Foreign Exchange Rates API https://exchangeratesapi.io/.
 
